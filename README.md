@@ -9,4 +9,4 @@ The All-in-One CFW package for the Nintendo 3ds
 * [godemode9](https://github.com/d0k3/GodMode9)
 * [wumibo](https://github.com/hax0kartik/wumiibo)
 * [boot9strap](https://github.com/SciresM/boot9strap)
-* [
+* [LumaLocaleSwitcher](https://github.com/Possum/LumaLocaleSwitcher)
