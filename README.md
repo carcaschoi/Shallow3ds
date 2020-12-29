@@ -14,7 +14,9 @@ The All-in-One CFW package for the Nintendo 3ds
 * [wumibo](https://github.com/hax0kartik/wumiibo) (Amiibo Emulation for 3ds)
 * [boot9strap](https://github.com/SciresM/boot9strap)
 * [LumaLocaleSwitcher](https://github.com/Possum/LumaLocaleSwitcher) (manage games region localization)
-* [
+* [bootNTRSelector](https://github.com/Nanquitas/BootNTR)
+* [3dshell](https://github.com/joel16/3DShell) (multi-purpose file manager)
+* [Checkpoint](https://github.com/FlagBrew/Checkpoint) 
 
 # Another useful link
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/)
