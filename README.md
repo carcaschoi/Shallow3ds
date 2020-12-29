@@ -33,8 +33,8 @@ The All-in-One CFW package for the Nintendo 3ds
 * [universal updater](https://github.com/RocketRobz/TWiLightMenu-Updater) (homebrew app store)(自製軟件商店)
 
 # 3ds old extra includes:
-* [bootNTRselector mode3](https://github.com/Nanquitas/BootNTR) ()
-* [SFontT80](https://github.com/dnasdw/SharedFontTool) ()
+* [bootNTRselector mode3](https://github.com/Nanquitas/BootNTR) (made specifically for extended memory games on Old 3DS/2DS models)
+* [SFontT80](https://github.com/dnasdw/SharedFontTool) (made specifically for extended memory games on Old 3DS/2DS models)
 
 # Another useful link(not include in Shallow3ds)
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
