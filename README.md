@@ -2,10 +2,12 @@
 The All-in-One CFW package for the Nintendo 3ds
 
 # How to use
+* Use this package after hacking your 3ds, Download the latest releases from [here]()
 
 # this aio package includes:
 * [luma3ds boot.firm(3gx version)](https://github.com/Nanquitas/Luma3DS)
-* [3ds homebrew launcher](https://github.com/fincs/new-hbmenu)
+* [new-hbmenu(boot.3dsx)](https://github.com/fincs/new-hbmenu)
+* [homebrew launcher cia](https://github.com/yellows8/hblauncher_loader)
 * [godemode9](https://github.com/d0k3/GodMode9) (A full access file browser for the 3DS console)
 * [ctr-no-timeoffset](https://github.com/ihaveamac/ctr-no-timeoffset)
 * [faketik](https://github.com/ihaveamac/faketik) (make missing titles re-appear on 3ds)
@@ -21,12 +23,19 @@ The All-in-One CFW package for the Nintendo 3ds
 * [pksm](https://github.com/FlagBrew/PKSM) (save manager for pokeon III to VIII)
 * [DSP1](https://github.com/zoogie/DSP1) (Dsp firmware dumper)
 * [ftpd](https://github.com/mtheall/ftpd) (FTP Server for 3DS)
-* []() ()
-* [ghostEshop]() ()
+* [lumaupdater](https://github.com/KunoichiZ/lumaupdate) (luma3ds updater)
+* [ghostEshop](https://ghosteshop.com) (download games into 3ds directly)
+* [SharedFontTool](https://github.com/dnasdw/SharedFontTool) ()
+* [twilightmenu updater](https://github.com/RocketRobz/TWiLightMenu-Updater)
+* [universal updater](https://github.com/RocketRobz/TWiLightMenu-Updater) (homebrew app store)
 
+# 3ds old extra includes:
+* [bootNTRselector mode3](https://github.com/Nanquitas/BootNTR) ()
+* [
 # Another useful link(not include in Shallow3ds)
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
 * [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
-* [3ds hshop](https://hshop.erista.me/) ()
+* [3ds hshop](https://hshop.erista.me/) (download games into 3ds directly)(require FBI)
+* []
 
