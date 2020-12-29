@@ -2,7 +2,10 @@
 The All-in-One CFW package for the Nintendo 3ds
 
 # How to use
-* Use this package after hacking your 3ds, Download the latest releases from [here]()
+* Use this package after hacking your 3ds, Download the latest releases from [here](). If it is new3ds, extract (3ds aio package) into sd card. If it is old3ds, extract (3ds aio package) & (3ds old extra) into sd card
+
+# How to hack 3ds?
+* word guide: https://3ds.hacks.guide/
 
 # this aio package includes:
 * [luma3ds boot.firm(3gx version)](https://github.com/Nanquitas/Luma3DS)
@@ -25,17 +28,18 @@ The All-in-One CFW package for the Nintendo 3ds
 * [ftpd](https://github.com/mtheall/ftpd) (FTP Server for 3DS)
 * [lumaupdater](https://github.com/KunoichiZ/lumaupdate) (luma3ds updater)
 * [ghostEshop](https://ghosteshop.com) (download games into 3ds directly)
-* [SharedFontTool](https://github.com/dnasdw/SharedFontTool) ()
+* [SFontT](https://github.com/dnasdw/SharedFontTool) ()
 * [twilightmenu updater](https://github.com/RocketRobz/TWiLightMenu-Updater)
 * [universal updater](https://github.com/RocketRobz/TWiLightMenu-Updater) (homebrew app store)
 
 # 3ds old extra includes:
 * [bootNTRselector mode3](https://github.com/Nanquitas/BootNTR) ()
-* [
+* [SFontT80](https://github.com/dnasdw/SharedFontTool) ()
+
 # Another useful link(not include in Shallow3ds)
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
 * [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
+* [3DS系统中文化补丁]()
 * [3ds hshop](https://hshop.erista.me/) (download games into 3ds directly)(require FBI)
-* []
 
