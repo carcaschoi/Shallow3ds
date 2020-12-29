@@ -19,7 +19,7 @@ The All-in-One CFW package for the Nintendo 3ds
 * [Checkpoint](https://github.com/FlagBrew/Checkpoint) 
 
 # Another useful link
-* [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/)
-* [retroarch](https://retroarch.com) (aio emulator/)
-* [luma3ds](https://github.com/CynricXu/Luma3DS) 
+* [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
+* [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
+* [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
 
