@@ -16,9 +16,11 @@ The All-in-One CFW package for the Nintendo 3ds
 * [LumaLocaleSwitcher](https://github.com/Possum/LumaLocaleSwitcher) (manage games region localization)
 * [bootNTRSelector](https://github.com/Nanquitas/BootNTR)
 * [3dshell](https://github.com/joel16/3DShell) (multi-purpose file manager)
-* [Checkpoint](https://github.com/FlagBrew/Checkpoint) 
+* [Checkpoint](https://github.com/FlagBrew/Checkpoint) (games saves manager)
+* [JKSM](https://github.com/J-D-K/JKSM) (Another games saves manager)
+* [pksm](https://github.com/FlagBrew/PKSM) (save manager for pokeon III to VIII)
 
-# Another useful link
+# Another useful link(not include in Shallow3ds)
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
 * [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
