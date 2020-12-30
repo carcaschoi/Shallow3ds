@@ -6,7 +6,7 @@ The All-in-One CFW package for the Nintendo 3ds
 * 破解3ds後使用此整合包包，請從[此處](https://github.com/carcaschoi/Shallow3ds/releases)下載最新版本。如果是new3ds，請將其下載（3ds aio軟件包）並解壓縮到sd卡中。如果是old3ds，請下載（3ds aio軟件包）和（3ds old extra）並解壓縮到sd卡
 # How to hack 3ds?
 * English word guide: https://3ds.hacks.guide/
-* (https://3ds.hacks.guide/zh_TW/)
+* 中文文字指南: https://3ds.hacks.guide/zh_TW/
 
 # this aio package includes:
 * [luma3ds boot.firm(3gx version)](https://github.com/Nanquitas/Luma3DS)
