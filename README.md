@@ -41,5 +41,6 @@ The All-in-One CFW package for the Nintendo 3ds
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
 * [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
+* [3DS系统中文化补丁]() ()
 * [3ds hshop](https://hshop.erista.me/) (download games into 3ds directly)(require FBI)
 
