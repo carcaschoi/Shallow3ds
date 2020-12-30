@@ -36,7 +36,7 @@ The All-in-One CFW package for the Nintendo 3ds
 
 # 3ds old extra includes:
 * [bootNTRselector mode3](https://github.com/Nanquitas/BootNTR) (made specifically for extended memory games on Old 3DS/2DS models)（專門用於舊3DS / 2DS型號上的擴展內存遊戲）(use for game cheating)(可用作金手指)(中文系統字庫，可解決部分漢化遊戲亂碼問題)
-* [SFontT80]() （專門用於舊3DS / 2DS型號上的擴展內存遊戲）(中文系統字庫，可解決部分漢化遊戲亂碼問題)
+* [SFontT80](https://github.com/dnasdw/SharedFontTool) （專門用於舊3DS / 2DS型號上的擴展內存遊戲）(中文系統字庫，可解決部分漢化遊戲亂碼問題)
 # Another useful link(not include in Shallow3ds)
 * [twilightmenu](https://github.com/DS-Homebrew/TWiLightMenu) (nds emulator/模擬器)
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
