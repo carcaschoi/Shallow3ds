@@ -42,5 +42,5 @@ The All-in-One CFW package for the Nintendo 3ds
 * [retroarch](https://retroarch.com) (aio emulator/萬能模擬器)
 * [luma3ds中文版](https://github.com/CynricXu/Luma3DS) 
 * [3DS系统中文化补丁](https://github.com/carcaschoi/3DS-chinese-patch)
-* [3ds hshop](https://hshop.erista.me/) (download games into 3ds directly)(require FBI)
+* [3ds hshop](https://hshop.erista.me/) (download games into 3ds directly)(require FBI)（將游戲直接下載到3ds中）（需要FBI）
 
