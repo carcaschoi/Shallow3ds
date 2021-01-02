@@ -11,7 +11,7 @@ The All-in-One CFW package for the Nintendo 3ds
 # this aio package includes:
 * [luma3ds boot.firm(3gx version)](https://github.com/Nanquitas/Luma3DS)
 * [new-hbmenu(boot.3dsx)](https://github.com/fincs/new-hbmenu)
-* [homebrew launcher cia](https://github.com/yellows8/hblauncher_loader)
+* [homebrew launcher cia](https://github.com/mariohackandglitch/homebrew_launcher_dummy)
 * [godemode9.firm](https://github.com/d0k3/GodMode9) (A full access file browser for the 3DS console)(萬能的工具)
 * [ctr-no-timeoffset](https://github.com/ihaveamac/ctr-no-timeoffset)
 * [faketik](https://github.com/ihaveamac/faketik) (make missing titles re-appear on 3ds)(使遺失的標題重新出現在3ds上)
