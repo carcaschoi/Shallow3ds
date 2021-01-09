@@ -18,6 +18,7 @@ The All-in-One CFW package for the Nintendo 3ds
 * [FBI](https://github.com/Steveice10/FBI) (mainly use for cia installation)(安裝cia用)
 * [Anemone3ds](https://github.com/astronautlevel2/Anemone3DS) (A Theme and Splashscreen Manager)(3ds螢幕桌布管理器)
 * [wumibo](https://github.com/hax0kartik/wumiibo) (Amiibo Emulation for 3ds)(模擬amiibo)
+* [wumiibo helper](https://github.com/hax0kartik/wumiibo) (produce compatible amiibos for a compatible game right from your 3ds)
 * [boot9strap](https://github.com/SciresM/boot9strap)
 * [LumaLocaleSwitcher](https://github.com/Possum/LumaLocaleSwitcher) (manage games region localization)(轉換遊戲地區)
 * [bootNTRSelector](https://github.com/Nanquitas/BootNTR) (can be used for games cheating)(可用作使用金手指)
