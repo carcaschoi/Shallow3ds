@@ -32,6 +32,7 @@ The All-in-One CFW package for the Nintendo 3ds
 * [SFontT](https://github.com/dnasdw/SharedFontTool) (中文系統字庫，可解決部分漢化遊戲亂碼問題)
 * [twilightmenu updater](https://github.com/RocketRobz/TWiLightMenu-Updater) (nds emulator updater)(nds模擬器更新器)
 * [universal updater](https://github.com/Universal-Team/Universal-Updater) (homebrew app store)(自製軟件商店)
+* [dses](https://github.com/noirscape/dses)(set the EULAs for the 3DS to accepted.)
 * a lot of cheat code compatible with bootNTRselector(大量金手指(bootNTRselector用))
 
 # 3ds old extra includes:
